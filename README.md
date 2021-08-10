@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Konichiwa ଲ(ⓛ ω ⓛ)ଲ	
 <!--
 **Samir-Lama/Samir-Lama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
