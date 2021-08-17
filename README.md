@@ -1,4 +1,4 @@
-### Konichiwa 
+### Konichiwa d(>_< )
 ![image](https://user-images.githubusercontent.com/52377492/129764182-01d50bb1-4c62-4123-8ddb-0895612b058d.png)
 
 
