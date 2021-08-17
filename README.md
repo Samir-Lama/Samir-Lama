@@ -1,5 +1,6 @@
 ### Konichiwa 
-Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/52377492/129764182-01d50bb1-4c62-4123-8ddb-0895612b058d.png)
+
 
 <!--
 **Samir-Lama/Samir-Lama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
